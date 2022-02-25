@@ -1,0 +1,1472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ladie's blush, or, The history of Susanna, the great example of conjugal chastity an heroick poem / by W.V.</title>
+            <author>W. V.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64766</idno>
+            <idno type="STC">Wing V15</idno>
+            <idno type="STC">ESTC R6702</idno>
+            <idno type="EEBO-CITATION">13090377</idno>
+            <idno type="OCLC">ocm 13090377</idno>
+            <idno type="VID">97358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 402:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ladie's blush, or, The history of Susanna, the great example of conjugal chastity an heroick poem / by W.V.</title>
+                  <author>W. V.</author>
+               </titleStmt>
+               <extent>[6], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Cotterel for Robert Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97358:1"/>
+            <pb facs="tcp:97358:1" rendition="simple:additions"/>
+            <p>The Ladie's Bluſh: Or, THE HISTORY OF SUSANNA, THE <hi>GREAT EXAMPLE</hi> OF Conjugal Chaſtity.</p>
+            <p>An HEROICK POEM. By <hi>W. V.</hi>
+            </p>
+            <q>
+               <l>Attentant formâ celebréin<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pudore Suſannam</l>
+               <l>Injuſti, quibus eſt facta repulſa, Senes:</l>
+               <l>Ira metúſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fidem laeſam teſtantur, at inſons</l>
+               <l>Fatidici vatis ſolvitur ore nece.</l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>James Cotterel,</hi> for <hi>Robert Robinſon,</hi> neer <hi>Grays</hi>-Inne-gate in <hi>Holborn.</hi> 1673.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97358:2"/>
+            <pb facs="tcp:97358:2"/>
+            <head>To the AMOROUS READERS.</head>
+            <p>
+               <seg rend="decorInit">P</seg>RREFACES to <hi>Books</hi> are as Gentlemen-<g ref="char:V">Ʋ</g>ſhers to <hi>Ladies;</hi> when they have given a ſhort account of the <hi>perſon</hi> or <hi>Subject</hi> they introduce, your own prudence will dictate to you, that your entertainment of them ſhould be, in ſome meaſure, anſwer<g ref="char:EOLhyphen"/>able to their <hi>quality.</hi> But the <hi>La<g ref="char:EOLhyphen"/>dy</hi> we here bring into your view being of greater emi<g ref="char:EOLhyphen"/>nencie then any other, as to the <hi>vertue</hi> for which her me<g ref="char:EOLhyphen"/>mory hath been celebrated through all ages, it is thought requiſite, to do it with more pomp and ceremony.</p>
+            <p>The Author of this Poem having ſpent ſome time in the peruſal of the <hi>Apocryphal</hi> part of the <hi>Holy Scri<g ref="char:EOLhyphen"/>ptures,</hi> reflected, that there were three eminent <hi>vertues</hi> re<g ref="char:EOLhyphen"/>commended to us in the perſons and examples of three re<g ref="char:EOLhyphen"/>markable <hi>Women.</hi> The firſt is <hi>Prudence,</hi> in thoſe of <hi>Judith,</hi> a Woman, as to Counſel and Cond<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, in the grea<g ref="char:EOLhyphen"/>test extremities of a tedious Siege, ſurpaſſing the best Po<g ref="char:EOLhyphen"/>liticians of the <hi>Jewiſh</hi> Government; and as to Action,
+<pb facs="tcp:97358:3"/>out-doing all the Stratagems of the Inhabitants of the Hill-countries, to the admiration and amazement of Po<g ref="char:EOLhyphen"/>ſterity. The ſecond is <hi>Fortitude,</hi> obſervable in the ma<g ref="char:EOLhyphen"/>gnanimous Matrone mentioned in the <hi>Maccabees,</hi> who, with undaunted courage, choſe rather to follow her ſeven ſons through the gates of death, by a generous Martyr<g ref="char:EOLhyphen"/>dom, then violate the Law of her Country. The third, <hi>Continence,</hi> exemplifi'd in the incomparable <hi>Suſanna,</hi> for which ſhe will be look'd on by all ſubſequent generations, as the great Example of <hi>Conjugal Chaſtity.</hi>
+            </p>
+            <p>Our Author hath thought fit to pitch upon this last for the Subject of his Work; waving the firſt, as implying a wiſh of that which the world calls Diſſimulation for the more proſperous management of her deſigne; and the ſe<g ref="char:EOLhyphen"/>cond, as being too great a precedent of Feminine courage, to be expos'd to the world, when thoſe of that ſexe, being made <hi>Egyptians</hi> by the <hi>Publick Faith</hi> of the <hi>Covenanting</hi> Cauſe, were already over-forward to be perſonally en<g ref="char:EOLhyphen"/>gag'd against the late Royal Standard. For about that time do I conceive this Piece to have been written; if not rather in the year—Forty four, famous for the Story of the <hi>Four-legg'd Elder.</hi>
+            </p>
+            <p>History tells us of a <hi>Romane</hi> Lady, who, reflecting too ſeriouſly on a forc'd enjoyment, whether confounded with ſhame at her not having made a greater reſiſtance, or the more to animate her Relations to revenge the violence, dagger'd her ſelf out of a loath'd life. But as to our <hi>Suſanna,</hi> what can be imagin'd more neerly approaching Martyrdome it ſelf, then for a young Lady, of tranſcen<g ref="char:EOLhyphen"/>dent
+<pb facs="tcp:97358:3"/>Beauty, to be brought to a publick and ſhameful Exe<g ref="char:EOLhyphen"/>cution, ſurrounded with her diſgrac'd and lamenting Re<g ref="char:EOLhyphen"/>lations, to avoid a pleaſure ſhe had often taſted (as being a Wife) and might then have accepted, from perſons who manag'd the Government of her Nation, and had the title of <hi>Elders,</hi> not ſo much upon the ſcore of their <hi>Age,</hi> as that of their <hi>Authority?</hi> Could there be a greater diſcovery of Reſolution, then for a delicate perſon of that tender Sexe, to prefer Stoning in the open field, before the preſ<g ref="char:EOLhyphen"/>ſing ſollicitations of two <hi>Elderly,</hi> yet not too far <hi>ſuper<g ref="char:EOLhyphen"/>annuated</hi> Gallants, in the ſhady ſolitude of a Garden?</p>
+            <p>But never was ſo violent a temptation ſo bravely op<g ref="char:EOLhyphen"/>pos'd, yet without any other defenſives, then thoſe of a meek and innotent reſiſtance. Let any but imagine the horrour it must have been to her, to be ſo ſtrangely ſur<g ref="char:EOLhyphen"/>priz'd in that poſture of Paradiſe; and what confuſion of thoughts it must have rais'd in her, to obſerve, in the Chryſtal Mirrour of her Ciſtern, the repreſentations of two perſons ſo little expected, and, ere ſhe could lift up her eyes to look about her, to finde her ſelf within their un<g ref="char:EOLhyphen"/>welcome embraces: Let any, I ſay, but imagine theſe cir<g ref="char:EOLhyphen"/>cumſtances, and thence compute, what an incredible pre<g ref="char:EOLhyphen"/>ſence of ſpirit what a recollection of vertuous and Matri<g ref="char:EOLhyphen"/>monial obligations was requiſite, to withſtand the ſhock of ſo ſudden an aſſault.</p>
+            <p>Theſe reflections, I ſuppoſe, occaſion'd our Author's dreſſing up of this History of <hi>Suſanna</hi> into an <hi>Heroick</hi> Poem; which he might have much enlarged, had he not thought it more convenient, to make it ſomewhat propor<g ref="char:EOLhyphen"/>tionate
+<pb facs="tcp:97358:4"/>to the Story it ſelf, as it lies in Sacred Writ. Wherein, if I am not miſtaken, he hath oblig'd ſeveral ſorts of perſons, as firſt, thoſe who are mightily affected with a Story put into <hi>Verſe</hi> or fitted for publick <hi>Action,</hi> when in dull <hi>Proſe</hi> it makes no impreſſion at all upon them; and would rather ſee <hi>Suſanna</hi> repreſented with Scenes in the <hi>Theatre,</hi> then hear of her exemplary Vertue and deliverance in a Sermon at St. <hi>Paul</hi>'s, before the whole <hi>Repreſentative</hi> of the City. To another ſort eſpe<g ref="char:EOLhyphen"/>cially the <hi>Siſterhood</hi> of the Nation, it may ſerve for a ſmart reproach of their <hi>frailty,</hi> who, upon the very ſcore of this Story, have entertain'd ſuch a pique against the <hi>Apocryphal</hi> Writings, that, of the many hundreds of Thouſands of <hi>Bibles,</hi> printed during the five fatal <hi>O<g ref="char:EOLhyphen"/>lympiads</hi> of the late <hi>Uſurpation;</hi> I doubt the number of ſuch as had thoſe bound with the <hi>Canonical,</hi> does not a<g ref="char:EOLhyphen"/>mount to the ſquare root of the whole. In fine whoever are concern'd in the ſacred bond of <hi>Matrimony,</hi> are ac<g ref="char:EOLhyphen"/>cordingly concern'd in the ſtrange accidents occurring in this Story; finding here how innocent Vertue was mira<g ref="char:EOLhyphen"/>culouſly reſcu'd out of the jaws of death; and the guilty contrivers of <hi>Suſanna</hi>'s ſhame brought to condigne pu<g ref="char:EOLhyphen"/>niſhment; to be perpetual precedents, to all ſuch as ſhall preſumptuouſly attempt the tasting of that fruit, which the Laws of God and Man have forbidden them.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:97358:4"/>
+            <head>The Lady's Bluſh: OR, The HISTORY of SUSANNA.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>Leep on, perfuming Morn, let not thy ſmiles</l>
+               <l>With one Reflex gild the <hi>Molucca</hi>-Iſles:</l>
+               <l>'Tis time enough; on <hi>Tython</hi>'s Saffron-bed</l>
+               <l>Repoſe the curls of thy refulgent head;</l>
+               <l>And let the <hi>Aethiopians</hi> Pearly Ore,</l>
+               <l>Sown by thy hand, lie on their Swarthy ſhore</l>
+               <l>A while ungather'd, that no Signal may</l>
+               <l>Alarm the nimble minutes of the Day</l>
+               <l>To harneſs <hi>Sol</hi>'s fierce Steeds, leſt while the Fates</l>
+               <l>Enforce a paſſage through th'Eaſt's Lattice-gates,</l>
+               <l>And ſend them panting up the <hi>Indian</hi> hill,</l>
+               <l>This monſtrous change him with amazement fill,</l>
+               <pb n="2" facs="tcp:97358:5"/>
+               <l>To ſee, ſince he deſcended laſt t'allay</l>
+               <l>His flaming Temples in th' <hi>Atlantick</hi> Sea,</l>
+               <l>Nature inverted, heat with cold thus fight</l>
+               <l>Within one body, as before rude Night</l>
+               <l>Firſt ſpread its frozen arms to entertain</l>
+               <l>That warmth which after brooded on the Main;</l>
+               <l>And chill <hi>December</hi> quit his weeds of gray,</l>
+               <l>T'uſurp the Robe and Diadem of <hi>May:</hi>
+               </l>
+               <l>Chaſte Groves polluted, where fair <hi>Daphne</hi>'s hair</l>
+               <l>True concord holdeth with th'affrighted Air,</l>
+               <l>And ſacred ſtreams complaining as they ſcape</l>
+               <l>From Springs attempted by the Elders rape;</l>
+               <l>So pure a Fountain, that the mighty <hi>Jove</hi>
+               </l>
+               <l>Might thence make <hi>Hebe</hi> mix him Healths of love,</l>
+               <l>And <hi>Iris</hi> draw her Aromatick dews</l>
+               <l>Which on the <hi>Perſian</hi> Vales ſhe daily ſtrews;</l>
+               <l>VVhilſt Juſtice with her myſtick Scepter ſaves</l>
+               <l>Vertue, that's ſhipwrackt, from the raging waves.</l>
+            </lg>
+            <lg>
+               <l>The Scene's <hi>Judea, Babylon</hi>'s the Stage</l>
+               <l>Of <hi>Jacob</hi>'s toyling iſſue's pilgrimage,</l>
+               <l>VVhereon oft acted was the Tragick ſtory</l>
+               <l>Of Heav'ns Firſt-born, <hi>Iſrael</hi>'s expiring glory.</l>
+               <l>Backſliding Nation! yet ſtill forward went</l>
+               <l>Firſt unto Sin, then into Baniſhment.</l>
+               <l>Therefore it pleas'd th'eternal power to raiſe</l>
+               <l>
+                  <hi>Aſſyria</hi>'s Monarch, to proclaim his praiſe,</l>
+               <l>By ſound of Ethnick Trumpets, too too ſhrill</l>
+               <l>Not to advance the great Commander's will</l>
+               <pb n="3" facs="tcp:97358:5"/>
+               <l>Againſt thoſe Tribes which took <hi>Roboam</hi>'s part,</l>
+               <l>And laid not the diviner threats to heart,</l>
+               <l>Till, fury anſwering folly, they did lie</l>
+               <l>Under the doom of God's enraged Eye,</l>
+               <l>In miſerable thraldome, to bemoan</l>
+               <l>
+                  <hi>Judah</hi>'s extinguiſht light in parts unknown.</l>
+            </lg>
+            <lg>
+               <l>Among the reſt, <hi>Joakim,</hi> next of kin,</l>
+               <l>As well to <hi>Judah,</hi> as to <hi>Judah</hi>'s ſin,</l>
+               <l>His progreſs made; where, ere long ſeated, he</l>
+               <l>VViſely provideth for Captivity,</l>
+               <l>By looſing bonds with bonds. For <hi>Cupid</hi> drew</l>
+               <l>A golden Shaft armed with flames that flew</l>
+               <l>Firſt to his boſome, then to one moſt rare</l>
+               <l>As ere perfum'd the uncorrupted air.</l>
+               <l>She was <hi>Chelkiah</hi>'s daughter, brought along,</l>
+               <l>At <hi>Babel</hi>'s brooks to ſing a <hi>Sion</hi>-ſong.</l>
+               <l>And though their mournful Harp was quite unſtrung,</l>
+               <l>And tuneleſs on th' <hi>Aſſyrian</hi> willows hung,</l>
+               <l>Yet <hi>Hymen</hi> took it down, and play'd ſo true,</l>
+               <l>That diſcontents fled like the morning-dew,</l>
+               <l>Or winged ſleep, and darkneſs drew amain</l>
+               <l>Her ſable Enſignes from the <hi>Shinar</hi>-plain,</l>
+               <l>By <hi>Dian</hi>'s Torches chac'd, who led the way</l>
+               <l>Before this Couple to their Marriage-day,</l>
+               <l>And joyn'd them hand in hand; ſo great a Prize</l>
+               <l>As ſhe's, both <hi>Indies</hi> ſcarce can equalize.</l>
+            </lg>
+            <lg>
+               <l>Beſides her Beauty, which was highly fair,</l>
+               <l>Her youth and comelineſs beyond compare,</l>
+               <pb n="4" facs="tcp:97358:6"/>
+               <l>Greater perfections ſhe yet own'd, chaſte, good,</l>
+               <l>And milde as <hi>Euphrates</hi>'s Silver-flood,</l>
+               <l>Which, ſoftly gliding where old <hi>Eden</hi> lies,</l>
+               <l>Seems here to court a better Paradiſe.</l>
+            </lg>
+            <lg>
+               <l>There was beſides, wherewith this Bride was ſtor'd,</l>
+               <l>Another vertue yet, <hi>She fear'd the Lord;</hi>
+               </l>
+               <l>And as ſhe fear'd, ſhe lov'd; no ſervile fear,</l>
+               <l>Such as baſe Slaves unto their Tyrants bear,</l>
+               <l>But like a Daugther, who with filial care</l>
+               <l>T'her Fathers juſt commands doth give an ear,</l>
+               <l>Sh'obſerv'd her Maker; ſo 'tis hard to ſay</l>
+               <l>If Love or Fear moſt taught her to obey.</l>
+            </lg>
+            <lg>
+               <l>Thus was ſhe by her righteous Parents bred,</l>
+               <l>And in the holy Laws of <hi>Moſes</hi> read.</l>
+               <l>Who would not <hi>Solon</hi> or <hi>Lycurgus</hi> be,</l>
+               <l>To have their Laws confirm'd by ſuch as ſhe?</l>
+               <l>Or what good Law-giver could then repent</l>
+               <l>To chuſe, as he did, laſting Baniſhment?</l>
+               <l>Then <hi>Numa</hi>'s labour ſurely vain had been</l>
+               <l>In his retirements to that <hi>Faery Queen;</hi>
+               </l>
+               <l>When here's <hi>Egeria,</hi> this the ſubſtance whence</l>
+               <l>His frantick Raptures did at firſt commence;</l>
+               <l>Yet he miſtook it, that the fate of <hi>Rome</hi>
+               </l>
+               <l>Might ſtill joyn hands with pre-ordained doom.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Suſanna</hi> therefore i'th' <hi>Chaldean</hi> land</l>
+               <l>Doth for the <hi>Jewiſh</hi> Nation's wonder ſtand,</l>
+               <pb n="5" facs="tcp:97358:6"/>
+               <l>Where like her Fathers parcht and in diſtreſs</l>
+               <l>'Mongſt ſcorching Sands in <hi>Paran</hi>'s wilderneſs,</l>
+               <l>She ſerved him that by a flaming light</l>
+               <l>His ſervants guided through the horrid night;</l>
+               <l>Though here confin'd, like <hi>Noah</hi> in the fold</l>
+               <l>Of damned wolves loſt in the world of old;</l>
+               <l>Or <hi>Lot</hi> in <hi>Sodom, Daniel</hi> in the Den</l>
+               <l>Of Lions, milder then thoſe cruel men;</l>
+               <l>Or as <hi>Ezekiel</hi> 'mongſt the Scorpions, where</l>
+               <l>No holy Charm could make them lend an ear:</l>
+               <l>So ſhe, where God's a ſtranger, 's always known</l>
+               <l>A Votary at his eternal Throne.</l>
+               <l>For <hi>Joakim</hi>'s riches, none of all the Eaſt,</l>
+               <l>Nay wealthy <hi>Job</hi> can't call himſelf the beſt;</l>
+               <l>Mighty in ſtock, and happier far in this,</l>
+               <l>
+                  <hi>Job</hi>'s wanton <hi>Dinah</hi> ne'r compar'd with his;</l>
+               <l>Nor churliſh <hi>Nabal,</hi> though his flocks could bring</l>
+               <l>A widow's Dowry fit for <hi>Iſrael</hi>'s King.</l>
+               <l>Moreo're, a Houſe whoſe building ſtretcht ſo wide,</l>
+               <l>As might compare with the <hi>Neronian</hi> pride;</l>
+               <l>No leſs a wonder then <hi>Rabyrus</hi> wrought,</l>
+               <l>VVhen Stars and Poles idaea'd to his thought,</l>
+               <l>VVhat work might take the proud <hi>Domitian,</hi>
+               </l>
+               <l>
+                  <hi>Corinthian, Tuſcane,</hi> or <hi>Ionian.</hi>
+               </l>
+               <l>Beſides a Garden, which the Curious will</l>
+               <l>Beſt ſee deſcrib'd by learned <hi>Bacon's</hi> Quill;</l>
+               <l>Or in a leſſer Folio view the ſame</l>
+               <l>By th' Muſes ſacred held to <hi>Danby</hi>'s Name.</l>
+            </lg>
+            <pb n="6" facs="tcp:97358:7"/>
+            <lg>
+               <l>Hither therefore the ſcatter'd <hi>Jews</hi> refort,</l>
+               <l>In ſtead of <hi>Judah</hi>'s, now to <hi>Joakim</hi>'s Court,</l>
+               <l>As to an Embleme of their ſad <hi>White-hall,</hi>
+               </l>
+               <l>Becauſe he had more honour then they all.</l>
+            </lg>
+            <lg>
+               <l>About this time two Judges choſen were</l>
+               <l>To ſtand at Helm, and the Republike ſteer,</l>
+               <l>Both ſons of <hi>Belial,</hi> far more like to ſplit</l>
+               <l>Poor <hi>Judah</hi>'s tatter'd Bark, then manage it;</l>
+               <l>Of curſed <hi>Ahab</hi>'s race, whoſe wickedneſs</l>
+               <l>Claims here in them by <hi>Metempſychoſis.</hi>
+               </l>
+               <l>Thus unto Wolves committed were the Sheep,</l>
+               <l>And over Lambs, two Lions ſent'nel keep:</l>
+               <l>For ſuch they were, as oft the Lord foretold,</l>
+               <l>With <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> from the days of old,</l>
+               <l>Should caſt up <hi>Babel</hi>'s foam, men grave with crimes,</l>
+               <l>Who ſeem to govern, but pervert the times.</l>
+            </lg>
+            <lg>
+               <l>This place theſe Judges made their Rendezvous,</l>
+               <l>Where daily muſter'd the litigious Jews</l>
+               <l>Their forlorn troops, for Orders here to call,</l>
+               <l>As Ragged Regiments from a General;</l>
+               <l>Even thoſe who Zealot-like at Law contend,</l>
+               <l>And counter by as with their deareſt friend,</l>
+               <l>Though Bench and Ear corrupt: the Judges here</l>
+               <l>And Pleaders as in after-ages were,</l>
+               <l>Knaves, and the moſt part Fools, ere <hi>Dulman</hi> knew</l>
+               <l>Whether his Maſter could write falſe or true,</l>
+               <pb n="7" facs="tcp:97358:7"/>
+               <l>Or ever <hi>Sleep</hi> produc'd upon the Stage</l>
+               <l>That Lawyer <hi>Ignoramus</hi> with his Page.</l>
+            </lg>
+            <lg>
+               <l>The throng therefore of jarring Suitors gone,</l>
+               <l>And clouds of bus'neſs chac'd by Noonday-ſun,</l>
+               <l>
+                  <hi>Suſanna,</hi> as the Seaſon'd heat requir'd,</l>
+               <l>Into her husband's Garden oft retir'd,</l>
+               <l>With trembling leaves to fan, and ſhades aſſwage</l>
+               <l>Th'hot entertainments of the Tropick's rage.</l>
+            </lg>
+            <lg>
+               <l>Mean while, ſtern Luſt with eyes more ſubtle far</l>
+               <l>Then thoſe pure Opticks of the Eagles are,</l>
+               <l>Or <hi>Lynceus,</hi> whoſe perſpicil, they ſay,</l>
+               <l>Could meaſure paces with ſwift-footed day,</l>
+               <l>Stirs up theſe purblinde Elders ſtill to view</l>
+               <l>The uſual walkings of this matchleſs <hi>Jew.</hi>
+               </l>
+               <l>As Artiſts fingers buſily convey</l>
+               <l>Notes to that Inſtrument whereon they play:</l>
+               <l>So every ſtep of hers, as ſhe did move,</l>
+               <l>Jars on the Frets of their exalted love,</l>
+               <l>But Diſcord raiſeth with a murm'ring tone,</l>
+               <l>Unheard by any ſave themſelves alone,</l>
+               <l>Till what before did gently glow, now ſtreams</l>
+               <l>Out in the atomes of devouring flames.</l>
+               <l>For ſuddenly, this gale of luſt awoke</l>
+               <l>Hell's ſmothering embers wrapt in clouds of ſmoke,</l>
+               <l>And our choice pair obliquely turn'd their eye,</l>
+               <l>Looking aſquint upon Eternity,</l>
+               <pb n="8" facs="tcp:97358:8"/>
+               <l>Leſt that moſt ſimple undivided light,</l>
+               <l>Once breaking in, might their black ſouls affright,</l>
+               <l>As yet ſecurely quiet and aſleep,</l>
+               <l>While ſtubborn thoughts no watch at all will keep.</l>
+               <l>Howere they knew quite to deſiſt was good;</l>
+               <l>But wickedneſs, ſwell'd to ſo high a flood,</l>
+               <l>Broke down that ſaving rampart, till at length</l>
+               <l>Rebellion plumes it in her pride and ſtrength:</l>
+               <l>Reaſon commands, what then ſhall Heaven ſay no?</l>
+               <l>Or Conſcience check, when Nature bids men go?</l>
+               <l>Yet here a witneſs unperceived ſtood,</l>
+               <l>VVhile thus they did conſult with fleſh and bloud.</l>
+               <l>For as in Fields appointed foes diſplay</l>
+               <l>Enſigne gainſt Enſigne, till the doubtful day,</l>
+               <l>Sway'd by Fates hand, unto one ſide doth yeeld;</l>
+               <l>So now it fareth in a Spiritual field.</l>
+            </lg>
+            <lg>
+               <l>The Battel's pitcht, Colours on each ſide flie,</l>
+               <l>Upon the wing of hoped Victory;</l>
+               <l>Launce threatning launce, conjoyned Bodies meet,</l>
+               <l>And one another with loud Volleys greet.</l>
+               <l>Both Fleſh and Spirit grapple, parties made</l>
+               <l>Hence from a congreſs of th'infernal ſhade.</l>
+               <l>On th'other ſide, One, onely, ſubtil, pure,</l>
+               <l>Th' adverſe <hi>Phalanges</hi> able to endure.</l>
+               <l>Theſe Elders then, who ſuch brave Champions had,</l>
+               <l>(So potent was deceit) with joy grew mad</l>
+               <l>At th'honour of their crime, and both apart</l>
+               <l>This diſpute eccho'd from's redoubling heart.</l>
+            </lg>
+            <pb n="9" facs="tcp:97358:8"/>
+            <lg>
+               <l>'Tis true, I'm great, and do the people awe</l>
+               <l>By <hi>Iſrael</hi>'s ſpotleſs and impartial Law;</l>
+               <l>The Tribes committed are unto my hand,</l>
+               <l>As to a Shepherd in a Captive-land;</l>
+               <l>And if the Shepherd chance to go aſtray,</l>
+               <l>To Savage beaſts my Sheep muſt be a prey:</l>
+               <l>Their lovely fleeces briers and thorns will tear,</l>
+               <l>VVhen they, orewhelm'd with penſiveneſs and fear,</l>
+               <l>Without their Leader wander, whoſe diſgrace</l>
+               <l>Advantage gets by th'honour of his place.</l>
+               <l>Know it the people may, who oft forſake</l>
+               <l>The paths of goodneſs for examples ſake;</l>
+               <l>And great mens faults move in a Sphere ſo high,</l>
+               <l>As to be noted by each vulgar eye:</l>
+               <l>Juſt as from Conflagrations in the skie,</l>
+               <l>Star-blazing ſtreams prodigiouſly do flie.</l>
+               <l>But yet my greatneſs a diſguiſe will lend,</l>
+               <l>That ſafely I accompliſh may my end.</l>
+            </lg>
+            <lg>
+               <l>Fond mortal! thinkeſt thou Heav'ns clearer fight</l>
+               <l>Hath now put on the mourning robe of night?</l>
+               <l>Can miſts, or darkneſs, or ought interpoſe</l>
+               <l>Betwixt his eye that all things does diſcloſe?</l>
+               <l>No, no, there's one with flames of fire that flies</l>
+               <l>Strictly t'avenge the world's impieties,</l>
+               <l>And by the blaſt of his conſuming breath</l>
+               <l>Sure to repay ſin, with its wages, Death.</l>
+            </lg>
+            <lg>
+               <l>Though it be ſo, my unconfined will</l>
+               <l>Is towring now upon too high a Quill</l>
+               <pb n="10" facs="tcp:97358:9"/>
+               <l>To minde ſuch weak reclaims: I cannot ſtay,</l>
+               <l>For fierce deſire, like to a raging Sea,</l>
+               <l>Bears me along; and though the beſt I love,</l>
+               <l>Depraved ſence makes me the worſt approve.</l>
+               <l>Let Bears and Tygers, all the Monſters that</l>
+               <l>Firſt roar'd upon the Mountain <hi>Ararat,</hi>
+               </l>
+               <l>(As Satan at the Sun-cloath'd woman hurl'd</l>
+               <l>The <hi>Lethe</hi>-vomits of his dreadful world)</l>
+               <l>Our Tribes purſue, then ſcatter and divide,</l>
+               <l>My headſtrong paſſion will not be deny'd:</l>
+               <l>Deſtruction come, I'm ſatisfi'd if I</l>
+               <l>May ſatiate my luſt, and after die.</l>
+            </lg>
+            <lg>
+               <l>Thus as <hi>Ripheus</hi> fell moſt good and true,</l>
+               <l>Scarce matcht for vertue mongſt the <hi>Trojan</hi> crue,</l>
+               <l>Becauſe the Gods thought fit: ſo in this heat</l>
+               <l>Heav'ns powerful Spirit's pleaſed to retreat,</l>
+               <l>And this Triumvirate of darkneſs weilds</l>
+               <l>Its conqu'ring Sword through the forſaken fields,</l>
+               <l>And reins once laid upon the ſtubborn neck</l>
+               <l>Of each proud Elder, not the ſharpeſt check</l>
+               <l>Of Conſcience might them ſtay, blindfold proceed,</l>
+               <l>As always thoſe whom Helliſh Princes lead.</l>
+               <l>Thus Vertue bleeding lay, ſucceſsful Sin</l>
+               <l>Beats down the Bulwarks, lets the Victor in,</l>
+               <l>Who to compleat his Triumph, ſtrives t'unite</l>
+               <l>Thoſe which did under his black Banner fight,</l>
+               <l>Unknown to one another; though both were</l>
+               <l>Wounded alike, yet neither durſt declare.</l>
+               <pb n="11" facs="tcp:97358:9"/>
+               <l>So tim'rous guilt is, ere its branches ſhoot,</l>
+               <l>Having i'th' minde but newly taken root.</l>
+            </lg>
+            <lg>
+               <l>How many black conceits within them move</l>
+               <l>From day to day hatching luſt-raging Love?</l>
+               <l>The object fair <hi>Suſanna,</hi> whom to win,</l>
+               <l>Theſe Sages walk their uſual rounds in ſin,</l>
+               <l>Contented with a bare reflex, till Chance</l>
+               <l>Conſpir'd their helliſh purpoſe to advance.</l>
+               <l>For being both departed at high Noon,</l>
+               <l>Each to his ſeveral habitation,</l>
+               <l>They wheel'd about, turn'd by an unſeen rein,</l>
+               <l>VVhich brought them to the ſelf-ſame place again.</l>
+               <l>Ev'n as a Needle toucht by th' Magnet-ſtone</l>
+               <l>Abhors all points of variation:</l>
+               <l>So theſe, impregnate by infernal fires,</l>
+               <l>No point inclin'd to but their baſe defires.</l>
+               <l>Therefore as rays that to one centre tend,</l>
+               <l>Or different footſteps to th'ſame journeys end,</l>
+               <l>They meet from whence they went, (diſſembling it,</l>
+               <l>And forc'd to leave their former counterfeit)</l>
+               <l>Each on the other gaz'd, their wrinkled veins</l>
+               <l>Swell'd up with guilt, dy'd in Vermilion-ſtains,</l>
+               <l>Exchanged red for white, and white for red,</l>
+               <l>More then a thouſand tongues diſcovered,</l>
+               <l>Till each as in the Mirrour of a Glaſs</l>
+               <l>Reflections darted to the others face,</l>
+               <l>And prologue thereunto was firſt to learn,</l>
+               <l>The certain cauſe of either's quick return.</l>
+               <pb n="12" facs="tcp:97358:10"/>
+               <l>So that at laſt they both reveal'd their luſt,</l>
+               <l>And hudled up the thing 'twixt fit and juſt.</l>
+               <l>Both thus alleadg'd: I thought at home to ſtay,</l>
+               <l>But there's no food my hunger can allay,</l>
+               <l>That longeth much, ſince firſt I chanc'd to ſee</l>
+               <l>The golden fruit of one forbidden tree,</l>
+               <l>Neer to this place, which flouriſhng doth ſtand,</l>
+               <l>As if ne'r planted by a mortal hand,</l>
+               <l>Or that its fruit was ne'r ordain'd to grow</l>
+               <l>For the rude taſte of worldlings here below.</l>
+               <l>It is the wondrows Spouſe of <hi>Joakim</hi>'s bed</l>
+               <l>That hath m'unwary hopeleſs fancie fed</l>
+               <l>With new Idaea's; yet mean while I pine</l>
+               <l>For that which ſhuns theſe reſtleſs lips of mine.</l>
+               <l>Nor may ones thirſt be quenched with that drink</l>
+               <l>Which touched once, forthwith away doth ſhrink.</l>
+               <l>Obſerve the motions of this glorious Star,</l>
+               <l>Not ſuch another's in our Hemiſphere;</l>
+               <l>Nay, <hi>Venus,</hi> whom youth call the Queen of Love,</l>
+               <l>Doth not with ſuch a radiant luſtre move:</l>
+               <l>In ſhort, thoſe women came not near her, when</l>
+               <l>Angels of God were Sons-in-law to Men.</l>
+               <l>The thought of home therefore's abhorr'd, for Hell's</l>
+               <l>In every place but where <hi>Suſanna</hi> dwells;</l>
+               <l>And th'entertainments of our Beldames breath</l>
+               <l>More dreadful are then ſhocks of ſudden death,</l>
+               <l>Who with revengeful kiſſes daily ſtrive</l>
+               <l>Kindly to bury us poor two alive.</l>
+               <pb n="13" facs="tcp:97358:10"/>
+               <l>But, doating Fools! they are miſtaken, why?</l>
+               <l>Old <hi>Aeſon</hi>'s Bath proves now no Poetry:</l>
+               <l>Experience hath confirm'd it true and good</l>
+               <l>I'th' vigour of our metamorphos'd blood.</l>
+               <l>We're young again, and, like the Lads of <hi>Greece,</hi>
+               </l>
+               <l>We'll venture to ſurpriſe this Golden Fleece.</l>
+               <l>All <hi>Colchos</hi> can't withſtand, nor Dragons keep</l>
+               <l>Their dreadful guard, whilſt charm'd by us a ſleep.</l>
+               <l>Yet, fair <hi>Laverna,</hi> this requeſt fulfill,</l>
+               <l>That when all's done, we may ſeem righteous ſtill.</l>
+            </lg>
+            <lg>
+               <l>Now was that time when the <hi>Nemaean</hi> beaſt</l>
+               <l>Stretch'd out his paws with rage on <hi>Cancer</hi>'s breaſt,</l>
+               <l>Rouz'd by the <hi>Delian</hi> God, roars out amain</l>
+               <l>Quite through the fields of the Celeſtial plain,</l>
+               <l>VVhilſt from his furious breath fierce flames are hurl'd,</l>
+               <l>VVith Thunders mixt upon the lower world,</l>
+               <l>And frozen Stars which court the <hi>Arctick</hi> Pole</l>
+               <l>In ſweltring Thaws about their centres roul.</l>
+               <l>As then of old, the chaſte Nymphs made their ſtreams</l>
+               <l>A refuge from that Boy's miſguided flames:</l>
+               <l>So here <hi>Suſanna</hi> to the Spring retires,</l>
+               <l>To countermand the heat of <hi>July</hi>'s fires,</l>
+               <l>I'th'Garden to her Husbands Palace nigh,</l>
+               <l>Where ſtood a Fountain that was never dry,</l>
+               <l>But like to thoſe which Paradiſe once ſed,</l>
+               <l>Sendeth freſh glories unto every Bed,</l>
+               <l>Two Maids attending onely. Th'Elders had</l>
+               <l>Themſelves before into this place convey'd,</l>
+               <pb n="14" facs="tcp:97358:11"/>
+               <l>Whey they lay hid like Serpents to deceive,</l>
+               <l>Taught by that Monſter which ſo ſerved <hi>Eve.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ye lofty Pow'rs! ſome reaſons to us mind</l>
+               <l>Why Hell, the World, and Fleſh are thus combin'd,</l>
+               <l>VVithin that place <hi>Cothurnick</hi> ſteps to tread,</l>
+               <l>VVhere <hi>Flora</hi> does her various beauties ſpread?</l>
+               <l>VVhat is the cauſe that made them this deviſe?</l>
+               <l>Are Gardens Stages fit for Tragedies?</l>
+               <l>In ſuch a place firſt was the Devil's Prize</l>
+               <l>God and the creature to make enemies.</l>
+               <l>Prodigious Garden, that could bear a weed</l>
+               <l>So full of poyſon, as all <hi>Adam</hi>'s ſeed</l>
+               <l>Still c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies, O wrerched man, what haſt thou done,</l>
+               <l>Thus to orewhelm us in perdition?</l>
+               <l>
+                  <hi>David</hi> did there, with an adulterous eye,</l>
+               <l>
+                  <hi>Bathſheba</hi> naked in the Fountain ſpie,</l>
+               <l>An eye with winged murther charg'd, which flew</l>
+               <l>As far as <hi>Rabbah,</hi> and <hi>V;riah</hi> ſlew.</l>
+               <l>A Garden 'twas wherein a painful floud</l>
+               <l>Sweat from our Saviour like to drops of bloud;</l>
+               <l>And in a Garden <hi>Judas</hi> him betray'd;</l>
+               <l>VVhere alſo was his righteous body layd.</l>
+            </lg>
+            <lg>
+               <l>VVhilſt thus the Elders and their Engines lie,</l>
+               <l>Not the leaſt thought of ſordid Jealouſie</l>
+               <l>Diſturbs <hi>Joakim</hi>'s quiet, who affords</l>
+               <l>No ſmall reſpect to theſe Judicial Lords,</l>
+               <l>VVhom to miſtruſt were madneſs, their gray hairs</l>
+               <l>Being Antidote enough againſt ſuch fears;</l>
+               <pb n="15" facs="tcp:97358:11"/>
+               <l>But rather thinks, Theſe learned Sages will</l>
+               <l>
+                  <hi>Suſanna</hi> with ſome vertuous precepts fill;</l>
+               <l>On whoſe each look an aged Hiſt'ry ſits,</l>
+               <l>The beſt improvement of all younger wits,</l>
+               <l>Whereby ſhe may, or ere old-age draws on,</l>
+               <l>The proſpect have of a free Horizon,</l>
+               <l>Her underſtanding clearly ſo to view</l>
+               <l>Fore paſs'd events, and judge what ſhall enſue:</l>
+               <l>Such guides I wiſh our Fathers had, perhaps</l>
+               <l>They ne'r had long'd for theſe accurſed Grapes</l>
+               <l>That edge their childrens teeth, whoſe off-ſpring we</l>
+               <l>The cauſe lament in our Captivity.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Joakim</hi>'s well-compoſed minde foreſees</l>
+               <l>Not ought of the two Elders treacheries,</l>
+               <l>But, unſuſpecting man, receives as friends</l>
+               <l>Thoſe that diſguiſed luſts with lawful ends;</l>
+               <l>VVhich freedom bound them to this fixed day,</l>
+               <l>VVherein they might his vertuous Spouſe betray.</l>
+               <l>For being here, ſhe thinks it fit to lave</l>
+               <l>Her wearied limbs in the refreſhing wave;</l>
+               <l>So ſaid unto her Maidens, Hence, be gone;</l>
+               <l>The place is private, leave me here alone:</l>
+               <l>Haſte, balls perfum'd, <hi>Sabaean</hi> Odours bring</l>
+               <l>VVithout delay, to waſh me at the Spring.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Suſanna</hi> then unveils her orient skin,</l>
+               <l>Like <hi>Eve</hi>'s in <hi>Eden,</hi> ere imperious ſin</l>
+               <l>Firſt found an Apple, then a Leaf to hide</l>
+               <l>The ſpotted Beauty of her new-born pride,</l>
+               <pb n="16" facs="tcp:97358:12"/>
+               <l>Into the Fountain goes, whoſe amorous brims</l>
+               <l>Dropt tears for joy, t'embrace ſuch ſnowie limbs,</l>
+               <l>And curled in a wanton brayd, t'orecome</l>
+               <l>Love's fire concealed in its watry womb.</l>
+               <l>Had you but ſee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, when yet ſhe was half-bare,</l>
+               <l>Part of her Mantle ſporiing with the air,</l>
+               <l>The reſt in folds about her middle born:</l>
+               <l>So ſparkling <hi>Phlegon</hi> looketh in the morn,</l>
+               <l>VVhilſt glorious cloud<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in glittering fleeces flye,</l>
+               <l>To interpoſe 'twixt it and humane eye.</l>
+               <l>But once aloft, and to th'Meridian fled,</l>
+               <l>His naked body on the hills doth ſpread;</l>
+               <l>Such was ſhe when thoſe weeds or rags of clay</l>
+               <l>From her diviner fleſh were caſt away.</l>
+            </lg>
+            <lg>
+               <l>Ye fabulous Anoients! was not this ſame She</l>
+               <l>Your <hi>Aphrodite,</hi> deſcended of the Sea?</l>
+               <l>VVith Nymphs, not <hi>Neptune</hi> thus encompaſſed,</l>
+               <l>VVhilſt now <hi>Lucina</hi> brings the Spring to bed.</l>
+               <l>Yea ſure the ſame, although your purblinde eyes</l>
+               <l>Miſtook when ſhe did from a Fountain riſe.</l>
+               <l>And this the Piece, <hi>Apelles</hi> to pourtray</l>
+               <l>Durſt not adventure hove one line a day.</l>
+               <l>Glean'd up from thouſand Beauties that might give</l>
+               <l>The Painter fire to make his Picture live.</l>
+               <l>So rare th'Idaea ſeem'd, ſuch work there was</l>
+               <l>T'extract from mortals an immortal face.</l>
+            </lg>
+            <lg>
+               <l>Her Ivory-neck's like <hi>David</hi>'s Tower of war,</l>
+               <l>VVherein ſo many conqu'ring Bucklers are,</l>
+               <pb n="17" facs="tcp:97358:12"/>
+               <l>And Arrows numberleſs, and ſure to hit</l>
+               <l>Unhappie Man that gazeth once at it.</l>
+               <l>Her Roſie Breſts like the two <hi>Indies</hi> ſtand,</l>
+               <l>A Globed Hemiſphere on either hand;</l>
+               <l>The cauſe perhaps our Fathers firſt did call</l>
+               <l>Eaſt the right ſide of Earth's ever-rowling Ball;</l>
+               <l>And hither Merchants, laden with deſire,</l>
+               <l>Hurry to quench the flames of fire with fire.</l>
+               <l>The other Regions which beneath thoſe lay,</l>
+               <l>Are not unfitly term'd <hi>Incognita,</hi>
+               </l>
+               <l>Hid by the ſwelling water, which denies</l>
+               <l>Further purſuit to our diſcoveries.</l>
+            </lg>
+            <lg>
+               <l>Howere the Elders who ſtood watching here</l>
+               <l>None of the worſt Geometricians were;</l>
+               <l>Like him, who having on <hi>Olympus</hi> found</l>
+               <l>
+                  <hi>Alcides</hi> foot imprinted on the ground,</l>
+               <l>Did thereupon his whole proportion gueſs,</l>
+               <l>And ſo engrav'd the big-bon'd <hi>Hercules:</hi>
+               </l>
+               <l>Theſe not unlike conclude, from what they ſaw,</l>
+               <l>An image they of th'unſeen features draw,</l>
+               <l>And argue from the leſſer; Vales cloſe by</l>
+               <l>Muſt needs abound with more variety:</l>
+               <l>For when hills vaunt their fruitful pride, ſure we</l>
+               <l>In lower parts ſhall richer paſture ſee.</l>
+            </lg>
+            <lg>
+               <l>Thus ſwell'd with hope, they made out all their Sail,</l>
+               <l>And ſwiftly rid before a proſperous Gale;</l>
+               <l>Their Keel's the Fleſh, the Devil Pilots it,</l>
+               <l>Like ſome grave Artiſt, whither he thinks fit:</l>
+               <pb n="18" facs="tcp:97358:13"/>
+               <l>Hell lends them Wind, Preſumption plies the Oar,</l>
+               <l>To land it ſafely at <hi>Suſanna</hi>'s ſhore.</l>
+               <l>Not many leagues this well-mann'd Veſſel flew,</l>
+               <l>Till now within its wiſhed Harbours view,</l>
+               <l>VVhen rapt with joy the goodly Steers-man cries,</l>
+               <l>
+                  <hi>Io,</hi> my Babes, lift up your aged eyes!</l>
+               <l>Behold your peace, rejoyce, for yonder is</l>
+               <l>Th'expected Port of all true happineſs,</l>
+               <l>Where bliſs more then eternal reſts in ſtore:</l>
+               <l>Go, and poſſeſs; what can be wiſht-for more?</l>
+            </lg>
+            <lg>
+               <l>Hereat theſe Elders, though until this time</l>
+               <l>The Gout and Palſey troubled every limb,</l>
+               <l>Make ſhift to run; thoſe who of late had gone</l>
+               <l>In Lordly Chairs to the Judicial Throne,</l>
+               <l>Now finde their heels. Deſire, as well as Fear,</l>
+               <l>Oft wings the ſloweſt feet, turns earth to air.</l>
+               <l>Love knows no pomp, but ſtoops to meaneſt things,</l>
+               <l>And levels Subjects with their Captive-Kings.</l>
+               <l>Ev'n like two Eagles that are tow'ring high</l>
+               <l>Within the Champian of the liquid skie,</l>
+               <l>No ſooner do diſcern their harmleſs preys,</l>
+               <l>But th'on them with ne'r-failing talons ſeize:</l>
+               <l>So they by Luſt's moſt hungry rage compell'd,</l>
+               <l>
+                  <hi>Suſanna</hi> in their eager gripings held.</l>
+               <l>She ſtrives and cries: alas! what ſhould ſhe do?</l>
+               <l>One naked woman in the arms of two,</l>
+               <l>Not men, but monſters, ſuch as Poets feign</l>
+               <l>The <hi>Cyclops</hi> were, that did in <hi>Aetna</hi> reign.</l>
+            </lg>
+            <pb n="19" facs="tcp:97358:13"/>
+            <lg>
+               <l>Think how <hi>Suſanna</hi> bluſh'd, look'd pale, and then</l>
+               <l>A trembling fear, bluſh'd, and look'd pale agen;</l>
+               <l>VVhilſt they: ' Fair creature, now behold the doors</l>
+               <l>' Are all made faſt, y'are now within our pow'rs;</l>
+               <l>' Yet we intreat: conſent, come, do n't deny;</l>
+               <l>' We're ſmitten, Lady, and with you muſt lie;</l>
+               <l>' There's none can ſee't, 'tis witneſs cauſeth ſhame,</l>
+               <l>' VVhilſt unrevealed Ills are free from blame.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Suſanna</hi> ſighs, and ſtrives, and cries agen,</l>
+               <l>' O ſubtle Elders! O polluted men!</l>
+            </lg>
+            <lg>
+               <l>To which they: 'If thou't not, we Judges are,</l>
+               <l>' And 'gainſt thy innocence will both declare,</l>
+               <l>' That, as we walked in this neighb'ring Grove,</l>
+               <l>' Thou play'dſt the harlot with thy wanton Love.</l>
+               <l>' Therefore thy Maids away were ſent, leſt they</l>
+               <l>' Should notice take of thine Adultery.</l>
+               <l>A ſtrange Dilemma put forth to perplex</l>
+               <l>The wav'ring judgement of that tender Sex.</l>
+            </lg>
+            <lg>
+               <l>Therefore <hi>Suſanna:</hi> ' Heavens be my guide;</l>
+               <l>' I am betray'd, diſtreſs'd on every ſide:</l>
+               <l>' If I conſent, by <hi>Moſes</hi> Law 'tis ſaid,</l>
+               <l>' No wife ſhall climb up to anothers bed</l>
+               <l>' Unpuniſht; which divine decree implies</l>
+               <l>' Death the reward of all Adulteries.</l>
+               <l>' But if refuſe, y'already have deſign'd</l>
+               <l>' VVhat baſe return true Vertue's like to finde!</l>
+               <pb n="20" facs="tcp:97358:14"/>
+               <l>' Howere I muſt not, dare not ſin: your skill</l>
+               <l>' Extends no further then this life to kill;</l>
+               <l>' But God will me avenge, and one day plead</l>
+               <l>' My guiltleſs cauſe with vengeance on your head.</l>
+            </lg>
+            <lg>
+               <l>Thus as a Rock perceiving her unmov'd,</l>
+               <l>The more ſhe did refuſe, the more they lov'd.</l>
+               <l>For threats prevailing not with her, they try</l>
+               <l>By ſpeeches fair, and thus to her reply:</l>
+            </lg>
+            <lg>
+               <l>' Lady, ſuch Coyneſs misbecomes your years;</l>
+               <l>' 'Tis time enough, when care hath ſown gray hairs,</l>
+               <l>' And plowed furrows on your aged head,</l>
+               <l>' Then to confine unto a husbands bed.</l>
+               <l>' Y'are young, and handſom, of a comely feature;</l>
+               <l>' Can it be thoughtere God made ſuch a creature</l>
+               <l>' For one man's ſole embraces? why ſhould Law</l>
+               <l>' Men more then other baſer creatures awe?</l>
+               <l>' What though our Fathers <hi>Moſes</hi> led? muſt he</l>
+               <l>' A pattern be to all poſterity?</l>
+               <l>' Or if he muſt, what ſin can you it call,</l>
+               <l>' To break one Law, when we oft break them all?</l>
+               <l>' No, no; regard the days 'fore <hi>Moſes</hi> was;</l>
+               <l>' There were no ſins, till he invented Laws.</l>
+               <l>' Can you ſuppoſe the Deſt'nies ere withſtood</l>
+               <l>' A free Community in what is good?</l>
+               <l>' Obſerve the Air, nothing more ſpotleſs is,</l>
+               <l>' Yet in a thouſand thouſand boſomes lies.</l>
+               <l>' Y'are born not for your ſelf; the Lord doth hate</l>
+               <l>' Thoſe that are backward to communicate;</l>
+               <pb n="21" facs="tcp:97358:14"/>
+               <l>' And raſhneſs 'tis t'engroſs Heav'ns liberal ſtore,</l>
+               <l>' Leſt he who gave too much, ſhould give no more.</l>
+               <l>' Nor be offended that old age hath drawn</l>
+               <l>' A ghoſtly curtain o'r our youthful Lawn,</l>
+               <l>' Or think it ſtrange that luſty bloud remains</l>
+               <l>' Still in the chanel of our paler veins.</l>
+               <l>' 'Tis you that gave it life, the fault is yours;</l>
+               <l>' Do but conſent, and then it ſhall be ours.</l>
+            </lg>
+            <lg>
+               <l>Yet ſhe again (tears trickling down her face)</l>
+               <l>Reflecteth on their Honours, Charge and Place.</l>
+               <l>All's labour loſt. When they could not perſwade,</l>
+               <l>A raſh attempt they on her body made.</l>
+               <l>Whereat <hi>Suſanna</hi> (for it was high time)</l>
+               <l>Cry'd out aloud, 'O Heav'n avenge this crime!</l>
+               <l>And ſhriek'd ſo, that the Palace did rebound</l>
+               <l>With diſmal ecchoes of that dreadful ſound.</l>
+               <l>The Servants all amaz'd run to and fro,</l>
+               <l>Diſtracted, ingorant which way to go.</l>
+               <l>By this the Elders therefore roar'd as high</l>
+               <l>Againſt <hi>Suſanna:</hi> for thoſe that were nigh</l>
+               <l>Such yells had never heard before; for there</l>
+               <l>Two throats appear'd one open Sepulchre.</l>
+            </lg>
+            <lg>
+               <l>Her Servants then in a moſt frightful maze</l>
+               <l>Into the Garden ruſh at ſeveral ways;</l>
+               <l>But when they ſaw their beauteous Lady ſtand</l>
+               <l>Stark naked, and the Judges on each hand,</l>
+               <l>What num'rous thoughts poſſeſs them! yea what ſhame!</l>
+               <l>While the lewd Elders do this ſcandal frame:</l>
+            </lg>
+            <pb n="22" facs="tcp:97358:15"/>
+            <lg>
+               <l>' Friends, wonder not, our clamour though ſo high,</l>
+               <l>' Had cauſe enough ev'n for the ſtones to cry,</l>
+               <l>' Out of this Garden-wall, ſo to declare</l>
+               <l>' Your Lady's wickedneſs beyond compare,</l>
+               <l>' T'her Husbands ſhame, by being naught with one</l>
+               <l>' Young and ſpruce Gallant, who now hence is gone.</l>
+               <l>' For us to wink at ſuch a fault, had bin</l>
+               <l>' Upon our own heads to pull down the ſin.</l>
+            </lg>
+            <lg>
+               <l>The Servants, much aſtoniſhed to hear</l>
+               <l>The Elders give her ſuch a character,</l>
+               <l>Durſt not their Lady's cauſe defend, though ſhe</l>
+               <l>Ne'r was before charg'd with unchaſtity,</l>
+               <l>And no ſuch blemiſh was till then laid on</l>
+               <l>The candour of her Reputation.</l>
+            </lg>
+            <lg>
+               <l>By this report, <hi>Suſanna</hi>'s ill name's flown</l>
+               <l>In one ſmall moment through all <hi>Babylon.</hi>
+               </l>
+               <l>Fame's wings are long, and ever as it flies</l>
+               <l>New courage gains, and ſtrangely multiplies.</l>
+               <l>How ſwiftly was the <hi>Perſian</hi> once o'rthrown!</l>
+               <l>That loſs from <hi>Greece</hi> unto <hi>Mycale</hi> blown</l>
+               <l>Ev'n in a point of time. Th'immortal Pow'rs</l>
+               <l>Themſelves confine not unto days or hours.</l>
+               <l>There's ſure ſome ſecret hand that doth convey</l>
+               <l>With more then nat'ral ſpeed, an infamy.</l>
+               <l>This was <hi>Suſanna</hi>'s fate, in Vertue's place</l>
+               <l>Onely ſucceed baſe titles of Diſgrace;</l>
+               <l>Made Town-talk: What, is modeſt <hi>Suſan,</hi> ſhe,</l>
+               <l>Turn'd Harlot, taken in Adultery?</l>
+               <pb n="23" facs="tcp:97358:15"/>
+               <l>O wretched woman! infants yet unborn</l>
+               <l>This fact will rue, and for their mother mourn,</l>
+               <l>If ſhe ſhould ſcape with life; but 'tis unfit</l>
+               <l>The earth ſhould bear ſo arch an Hypocrite.</l>
+               <l>Nay, old wives ſcarce with teeth to chew their bread,</l>
+               <l>The thing through ſtreets and every corner ſpread:</l>
+               <l>' VVhat think ye, Neighbours, of that youthful Bride</l>
+               <l>' In whom ſuch holineſs was thought t'abide,</l>
+               <l>' To day the Strumpet plaid, and's apprehended:</l>
+               <l>' Is this that Vertue men ſo much commended?</l>
+               <l>' The world is ſurely chang'd; both young and fair</l>
+               <l>' Our ſelves were once, yet 'twas our conſtant care</l>
+               <l>' Our Husbands not to injure; now it's common:</l>
+               <l>' He wants not faith, that henceforth ere truſts woman.</l>
+            </lg>
+            <lg>
+               <l>VVhat art thou; Luſt? or where is thy black ſeat?</l>
+               <l>VVhat Dev'liſh pow'r did ſuch a fiend beget?</l>
+               <l>'Tis thou that mov'ſt in hell through every part,</l>
+               <l>And (whilſt Love bindes the world that nothing ſtart)</l>
+               <l>Confuſion bring'ſt, and ſhattereſt aſunder</l>
+               <l>Its pleaſant frame, to trembling Nature's wonder.</l>
+               <l>How is't that love ſo ſoon ſhould hatred prove?</l>
+               <l>And fierce revenge poſſeſs the ſeat of love?</l>
+               <l>Or what unites ſuch different extremes,</l>
+               <l>But that Revenge and Love are equal flames?</l>
+               <l>And Good and Bad oft lie ſo cloſe together,</l>
+               <l>That 'tis not eaſie to diſtinguiſh either.</l>
+            </lg>
+            <lg>
+               <l>Sin, when conceiv'd, Luſt for a parent hath,</l>
+               <l>Luſt the Grandſire unto that monſter Death;</l>
+               <pb n="24" facs="tcp:97358:16"/>
+               <l>A wretched off-ſpring by theſe Elders got</l>
+               <l>Upon <hi>Suſanna,</hi> though they knew her not.</l>
+               <l>For night was come, and it they wholly ſpent</l>
+               <l>In thoughts of their inten ded Raviſhment,</l>
+               <l>And Junctoes ſet conſiſting but of three,</l>
+               <l>Reſolv'd before debate on Villany.</l>
+               <l>' Miſchief, ſaid they, muſt in progreſſion be;</l>
+               <l>' There's no retrogradation in Villany:</l>
+               <l>' Let's then purſu't; he has but half a will</l>
+               <l>' To be unjuſt, who ſeems a fraid to kill;</l>
+               <l>' Nor knows he well a miſchief how to cover,</l>
+               <l>' Who ere compleated thinks fit to give over.</l>
+               <l>' Her life muſt pay for this diſdain, elſe we</l>
+               <l>' Our ſelves of guilt ſhall ſcarce acquitted be.</l>
+            </lg>
+            <lg>
+               <l>Spotleſs <hi>Suſanna!</hi> what misfortune's this,</l>
+               <l>Occaſion'd by theſe Elders wickedneſs?</l>
+               <l>Thus <hi>Joſeph</hi>'s Miſtreſs would have ſlily brought</l>
+               <l>Him to th'embraces which to eſchew he ſought:</l>
+               <l>Or that brave <hi>Grecian</hi> boy, whoſe bloud was ſpilt,</l>
+               <l>To expiate his luſtful mothers guilt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sol</hi> had by this ran his nocturnal round</l>
+               <l>Over the utmoſt <hi>Antipodian</hi> ground,</l>
+               <l>And coming to <hi>Aurora</hi>'s Roſie place,</l>
+               <l>From off the Ocean ſends his ſmiling rays,</l>
+               <l>Whom to adore the mixed Heathen riſe,</l>
+               <l>Devoutly ordering their Idolatries.</l>
+               <l>But wo is me! he did the ſummons give</l>
+               <l>Unto a Judgement, where for no Reprieve</l>
+               <pb n="25" facs="tcp:97358:16"/>
+               <l>
+                  <hi>Suſanna</hi> hoped: O immortal Steeds,</l>
+               <l>Turn back for ſhame, be clad in mourning weeds;</l>
+               <l>Why ſhould ye read in ſuch reſplendent glory</l>
+               <l>The fatal accents of a <hi>Jewiſh</hi> Story?</l>
+               <l>Your Maker's darling, one that's innocent,</l>
+               <l>Unto the place of Execution ſent?</l>
+            </lg>
+            <lg>
+               <l>That day therefore a greater concourſe met</l>
+               <l>At <hi>Joakim</hi>'s houſe, where was the Judgement ſet;</l>
+               <l>Theſe Elders Pres'dents, and if that wo'n't do,</l>
+               <l>They will be Judges and Accuſers too.</l>
+               <l>O barbarous men! and more perverted Law!</l>
+               <l>Where none is found, will you there make a way?</l>
+               <l>Like <hi>Hannibal</hi> the horrid <hi>Alps</hi> climb ore,</l>
+               <l>And force a paſſage never known before?</l>
+               <l>And that pure Juſtice might atteſt the deed,</l>
+               <l>A Court is call'd to make good <hi>Naboth</hi> bleed.</l>
+            </lg>
+            <lg>
+               <l>Theſe Elders then gravely began to call</l>
+               <l>For poor <hi>Suſanna</hi> to the Judgement Hall:</l>
+               <l>' Go, bring her in; ſhe folly did commit,</l>
+               <l>' Such as our Law by no means may acquit.</l>
+            </lg>
+            <lg>
+               <l>With Father, Mother, Kindred, and a Train</l>
+               <l>Of num'rous Friends, piti'd <hi>Suſanna</hi> came;</l>
+               <l>VVhere think what blubber'd eyes, what dreadful grace</l>
+               <l>By this uſurpt the ſplendour of her face.</l>
+               <l>And blame her not, when harmleſs ſoul ſhe's come</l>
+               <l>From wicked hands to take her final doom.</l>
+            </lg>
+            <pb n="26" facs="tcp:97358:17"/>
+            <lg>
+               <l>Yet ne'r theleſs her glorious beauty ſhone,</l>
+               <l>Like to the Studs of <hi>Ariadne</hi>'s Crown;</l>
+               <l>Or as the Sun, after a latter rain,</l>
+               <l>Out of the clouds begins to peep again;</l>
+               <l>Wherefore theſe wicked <hi>Belials</hi> gave command</l>
+               <l>T'uncover her, that ſhe might bare-fac'd ſtand,</l>
+               <l>And with her Beauty feaſt their hungry eye,</l>
+               <l>Before the Sentence paſs'd that ſhe ſhould die.</l>
+            </lg>
+            <lg>
+               <l>Corrupted Elders! what bewitch'd your minde?</l>
+               <l>Nay, though you ſaw her, what made you thus blinde?</l>
+               <l>Mark but her Friends and Kindred that ſtand by,</l>
+               <l>Shew me amongſt them any cheek that's dry:</l>
+               <l>Behold the tears out of their penſive womb,</l>
+               <l>Themſelves deliv'ring ſilent Suitors come</l>
+               <l>For <hi>Suſan</hi>'s life; ſee, ſee what trembling ſpeed</l>
+               <l>Poor hearts they make for th'innocent to plead.</l>
+               <l>Where are your Children, if you ere had one,</l>
+               <l>Suppoſe <hi>Suſanna</hi>'s, their Deſtruction.</l>
+               <l>But vileſt wretches, 'cauſe you ne'r had any,</l>
+               <l>
+                  <hi>Chelcias,</hi> though but one, yet hath too many.</l>
+               <l>And could the Tempter (view her well, I pray)</l>
+               <l>Perſwade? what Rhet'rick us'd he to betray</l>
+               <l>A matchleſs woman! O eternal Pow'rs,</l>
+               <l>Can this be born with, and not flaming ſhow'rs</l>
+               <l>VVith Sulphur mixt into their boſomes flow,</l>
+               <l>VVho are contrivers of this Lady's wo?</l>
+            </lg>
+            <lg>
+               <l>She's now Arraign'd; th'Indictment being read</l>
+               <l>By th'Elders laying hands upon her head,</l>
+               <pb n="27" facs="tcp:97358:17"/>
+               <l>Amongſt the people, whilſt diſcons'late ſhe</l>
+               <l>Weeping implores aid from Eternity,</l>
+               <l>VVherein ſhe truſted, whoſe all-pow'rful King</l>
+               <l>Could eaſily ſave her, and deliverance bring.</l>
+            </lg>
+            <lg>
+               <l>The Elders thus: 'O ſons of <hi>Jacob</hi> dear,</l>
+               <l>' To theſe Impleadings lend a gracious ear;</l>
+               <l>' Our Legiſlator of erelaſting name,</l>
+               <l>' You know, did all our ſacred Statutes frame;</l>
+               <l>' VVhich after were confirm'd by Heav'ns broad Seal,</l>
+               <l>' That did each Ordinance to him reveal.</l>
+               <l>' Amongſt the reſt, if man or woman be</l>
+               <l>' Surprized in th'act of Adultery,</l>
+               <l>' Both of them muſt adjudged be to die,</l>
+               <l>' That they, not we, may bear th'iniquity.</l>
+               <l>' This wicked woman, as we lately were</l>
+               <l>' I'th' Garden walking for to take the air,</l>
+               <l>' And chancing by great hap to look aſide,</l>
+               <l>' VVith her adult rous mate by us was ſpi'd.</l>
+               <l>' But that to innocence ſhe might pretend,</l>
+               <l>' Two Maids at firſt upon her did attend;</l>
+               <l>' Till Vice impatient grown, they did ſtraightway</l>
+               <l>' By her commands, themſelves from thence convey,</l>
+               <l>' And ſhut the doors; none but in private we</l>
+               <l>' The perpetration of the act could ſee.</l>
+               <l>' For then a young man, by appointment ſure,</l>
+               <l>' Secretly lodg'd in the Grove's coverture,</l>
+               <l>' Draws neer unto her, kindly doth embrace;</l>
+               <l>' She likewiſe him; ſuch willingneſs there was,</l>
+               <pb n="28" facs="tcp:97358:18"/>
+               <l>' Till cloſe approaches (for we both it ſaw)</l>
+               <l>' Made them tranſgreſſors of that ſacred Law.</l>
+               <l>' Then from a corner of the Garden, whence</l>
+               <l>' VVe cloſely ſtanding ſaw this foul offence,</l>
+               <l>' Both of us made to the adult'rous pair,</l>
+               <l>' And came upon them ere they were aware;</l>
+               <l>' Them apprehended, but the ſturdy knave</l>
+               <l>' Sprang from our feeble hands, and did us leave;</l>
+               <l>' And in ſuch haſte out of the Garden flew,</l>
+               <l>' As thoſe whom guilt of Conſcience doth purſue:</l>
+               <l>' And ſhe, though much intreated, ne'rtheleſs</l>
+               <l>' VVill by no means th'Adult'rer's name confeſs.</l>
+               <l>' Theſe things are true, which we here teſtifie;</l>
+               <l>' Now judge, my Brethren, if ſh'ought not to die.</l>
+            </lg>
+            <lg>
+               <l>A confus'd murmure from th'Aſſembly brake,</l>
+               <l>VVho thought all true which theſe two Elders ſpake,</l>
+               <l>B'ing alſo backt with ſuch Authority</l>
+               <l>As might by patent colour o'r a lye.</l>
+               <l>They therefore ſoon believ'd, O fooliſh <hi>Jews!</hi>
+               </l>
+               <l>E'r unbelieving, or too credulous!</l>
+               <l>
+                  <hi>Suſanna</hi>'s then condemn'd, falſe Judgement hath,</l>
+               <l>By this, her ſentenc'd to a ſhameful death.</l>
+               <l>She now no more appeals to fleſh and blood;</l>
+               <l>No favour craves of men, nor yet withſtood</l>
+               <l>Their wicked dealings by her juſt Replies,</l>
+               <l>But unto Heav'n in ſuch-like language cries:</l>
+            </lg>
+            <lg>
+               <l>' O everlaſting Pow'r, to whom alone</l>
+               <l>' The thoughts of all men are entirely known,</l>
+               <pb n="29" facs="tcp:97358:18"/>
+               <l>' Things ſecret open, and events moſt clear</l>
+               <l>' Before their cauſes in the Embryo's were:</l>
+               <l>' O great Jehovah! whoſe admired eye</l>
+               <l>' Runs through the Circle of Eternity,</l>
+               <l>' Thou know'ſt, and none but thou, the wrong I bear</l>
+               <l>' From thoſe that have polluted <hi>Moſes</hi> Chair,</l>
+               <l>' Thy Law perverted, witneſs being given</l>
+               <l>' Againſt their Conſcience, my poor ſelf, and Heav'n;</l>
+               <l>' 'Gainſt me, that now muſt guiltleſs die, and ſhame</l>
+               <l>' To after-ages my diſgrace proclaim,</l>
+               <l>' VVhen all the Monument my life ſhall have,</l>
+               <l>' Will be th' advantage of a ſcandal'd grave,</l>
+               <l>' O'rlaid with ſland'rous Marble; wo is me!</l>
+               <l>' The fatal ſubject of this Tragedie,</l>
+               <l>' Contriv'd in darkneſs, by thoſe wretched men,</l>
+               <l>' Who place the guiltleſs in the guilty's Scene.</l>
+            </lg>
+            <lg>
+               <l>This ſaid, <hi>Suſanna</hi>'s Angel ſwiftly bears</l>
+               <l>Her pray'rs beyond the rowling ſpangled Sphears,</l>
+               <l>And does them ſoon to the Almighty ſhow,</l>
+               <l>Whilſt all's ſecure and careleſs here below,</l>
+               <l>The Elders ſafe, Revenge its end attain'd,</l>
+               <l>VVhere Luſt could not; Injuſtice alſo gain'd</l>
+               <l>A dreadful Goale; all things compleatly done</l>
+               <l>That might aſcertain her confuſion.</l>
+            </lg>
+            <lg>
+               <l>Th'Almighty VVord then forthwith leapeth down</l>
+               <l>From th'higheſt Spire of the Celeſtial Throne,</l>
+               <l>Like to a man of war, whoſe direful pow'r</l>
+               <l>Commiſſion hath whole Kingdoms to devour,</l>
+               <pb n="30" facs="tcp:97358:19"/>
+               <l>VVith horrour, death, and with amazement flies</l>
+               <l>Into th' ſurprized Camp of Enemies:</l>
+               <l>So this deſcending with his great Commands,</l>
+               <l>At length within the <hi>Chaldee</hi>'s Palace lands,</l>
+               <l>And findes out <hi>Daniel,</hi> one of great renown</l>
+               <l>VVith King and Princes all in <hi>Babylon;</hi>
+               </l>
+               <l>An <hi>Hebrew</hi> Captive, young, but very wiſe,</l>
+               <l>And able to unfold hard Myſteries,</l>
+               <l>Though wrapt up ſecret in th'eternal deep,</l>
+               <l>VVhere 'tis not fit for mortal men to peep.</l>
+               <l>This Word commanded him to undertake</l>
+               <l>
+                  <hi>Suſanna</hi>'s Cauſe, examination make</l>
+               <l>VVho her Accuſers are, and vindicate</l>
+               <l>The injur'd truth, before it be too late.</l>
+            </lg>
+            <lg>
+               <l>Hereat inflam'd with zeal, this Youth forth fled</l>
+               <l>Amongſt the Throng which woful <hi>Suſan</hi> led</l>
+               <l>To execution, with as eager haſte</l>
+               <l>As even now raſh Sentence on her paſs'd.</l>
+               <l>Then with a loud voice cry'd, ' Sirs, O Sirs hear,</l>
+               <l>' From this juſt woman's bloud I am moſt clear;</l>
+               <l>' VVhy, why ſo faſt, ye heedleſs Brethren, why,</l>
+               <l>' To ſee <hi>Chelcia</hi>'s vertuous daughter die?</l>
+            </lg>
+            <lg>
+               <l>This ſaid, the over-haſtie multitude</l>
+               <l>To <hi>Daniel</hi> turn'd: ' Youth from above endu'd</l>
+               <l>' VVith knowledge great, tell us thy meaning; we</l>
+               <l>' VVould gladly be inform'd the truth by thee,</l>
+               <l>' If ought's amiſs: juſt and tranſgreſſor too</l>
+               <l>' Cannot conſiſt; the latter we do know</l>
+               <pb n="31" facs="tcp:97358:19"/>
+               <l>' Prov'd by ſufficient Teſt, but do not ſee</l>
+               <l>' How vertuous wives commit Adultery.</l>
+               <l>' Our witneſs uncorrupted Judges were,</l>
+               <l>' We think it raſhneſs to think they ſhould erre:</l>
+               <l>' Then, noble Youth, belov'd of God and men,</l>
+               <l>' Shew us this thing, and we will turn agen.</l>
+            </lg>
+            <lg>
+               <l>By this therefore they had enclos'd about</l>
+               <l>
+                  <hi>Daniel,</hi> to be reſolved of their doubt,</l>
+               <l>Who with a comely grace i'th' midſt doth ſtand,</l>
+               <l>And gravely calls for Silence with his hand;</l>
+               <l>Which being made, ' Are ye ſuch fools indeed,</l>
+               <l>' In weighty things to make ſuch careleſs ſpeed?</l>
+               <l>' Where life's concern'd, what doth of right belong</l>
+               <l>' Ev'n Heathens know, thinking delays not long;</l>
+               <l>' And ſhall the Gentiles Moral righteouſneſs</l>
+               <l>' Shew Heav'n-taught <hi>Jews</hi> the way not to tranſgreſs,</l>
+               <l>' And yet unfollow'd be? For ſhame, my friends,</l>
+               <l>' See what diſhonour all raſh acts attends,</l>
+               <l>' Us odious renders in the ſight of thoſe</l>
+               <l>' Who neither God nor yet true Judgement knows,</l>
+               <l>' That thus, the truth unſearched, or the Cauſe,</l>
+               <l>' You are ſo forward t'execute our Laws,</l>
+               <l>' And upon <hi>Iſrael</hi>'s daughter Sentence give,</l>
+               <l>' Who nought has done but that ſhe ſtill may live.</l>
+               <l>' Infernal Angels ſometimes ſeem as bright</l>
+               <l>' As thoſe bleſt ones in unapproaching light;</l>
+               <l>' And Juſtice often in its full careers,</l>
+               <l>' The true complexion of Injuſtice bears.</l>
+               <pb n="32" facs="tcp:97358:20"/>
+               <l>' Return ye then unto the Judgement-ſeat;</l>
+               <l>' Examine well, for ſure th'impoſture's great;</l>
+               <l>' And witneſſes more falſe then Hell have ſtood</l>
+               <l>' T'imbrue their hands in this chaſte womans blood.</l>
+            </lg>
+            <lg>
+               <l>The people then with one conſent rejoyce,</l>
+               <l>And ſhout aloud with a confuſed noiſe,</l>
+               <l>Saying, To the Tribunal let's return,</l>
+               <l>And try if theſe men have falſe witneſs born.</l>
+            </lg>
+            <lg>
+               <l>Think how perplex'd the penſive Elders were,</l>
+               <l>'Twixt ſtings of Conſcience, re-inforc'd with fear,</l>
+               <l>And Heav'ns revengeful hand, that thus had ſent</l>
+               <l>Means unexpected for their puniſhment;</l>
+               <l>VVhilſt its Revenge doth ſtill in triumph ride</l>
+               <l>For Murther more then any ſin beſide.</l>
+               <l>No am'rous bluſhes now, no luſtful eyes;</l>
+               <l>To <hi>Cytherea</hi> no more Sacrifice:</l>
+               <l>But Reaſon's offer'd ſuccours once-betray'd,</l>
+               <l>(Known too too well to thoſe that are afraid)</l>
+               <l>Bloud from the Circle to the Centre flies,</l>
+               <l>And that which firſt does live with life ſupplies.</l>
+               <l>Hence came the Elders paleneſs, that wan fit</l>
+               <l>VVhich did on their cadav'rous temples ſit,</l>
+               <l>Whereby to each indifferent perſon there</l>
+               <l>Their guilt appear'd, ere to the place drawn neer.</l>
+            </lg>
+            <lg>
+               <l>Thou ſacred Conſcience! O myſterious thing!</l>
+               <l>From what hid cauſe does thy bright eſſence ſpring?</l>
+               <pb n="33" facs="tcp:97358:20"/>
+               <l>And moſt unhappie he whom fear alone</l>
+               <l>Hath ſtrength to chain in deſolation.</l>
+               <l>Fear, Mortal's bane, and this world's ſlavery,</l>
+               <l>That makes too penſive man not dare to die,</l>
+               <l>But ſlight his happineſs which no where dwells</l>
+               <l>Within the concave of our earthly cells,</l>
+               <l>And forceth ſilence where moſt need's to ſpeak,</l>
+               <l>And courage ſtops when ſhe her flight ſhould take.</l>
+            </lg>
+            <lg>
+               <l>Such was our Elders fate; no word we hear</l>
+               <l>They ſaid, till to the Court return'd they were:</l>
+               <l>Then paſſion ſomewhat overcome, they mutter</l>
+               <l>Theſe ſpeeches as their ſtammering tongues could utter:</l>
+            </lg>
+            <lg>
+               <l>' Thou Princely Youth, admired for thy fame,</l>
+               <l>' Since firſt we to th' <hi>Caldean</hi> Nation came,</l>
+               <l>' Great is thy wiſdom, that all <hi>Aſia</hi> know,</l>
+               <l>' That 'mongſt the Heathen makes thee honour'd ſo,</l>
+               <l>' And doth thy hand with ſuch a Scepter fill,</l>
+               <l>' As ſhines no leſs then our dread Monarch's will,</l>
+               <l>' Who thinks the Gods do love thee, whilſt ſuch years</l>
+               <l>' To thy great gifts but ſmall proportion bears:</l>
+               <l>' Come, and with us, thy Seniors, ſit down,</l>
+               <l>' Since God does youth oft-times with knowledg crown,</l>
+               <l>' And turns Gray-hairs to Babes; come, let us ſee</l>
+               <l>' (If thou canſt ſhew it) our iniquity.</l>
+               <l>' We both are Witneſſes, th'Indictment's read;</l>
+               <l>' Then as truth ſhall appear thou may'ſt proceed.</l>
+            </lg>
+            <pb n="34" facs="tcp:97358:21"/>
+            <lg>
+               <l>VVhereat young <hi>Daniel</hi> to th'Aſſembly ſaid,</l>
+               <l>' Let theſe two Elders forthwith be convey'd</l>
+               <l>' To ſev'ral diſtant places, not to ſpeak</l>
+               <l>' T'each other whilſt I ſhall enquiry make.</l>
+               <l>' Whom once examin'd, you will ſurely finde</l>
+               <l>' This woman guiltleſs, and they both combin'd</l>
+               <l>' To ſecond Luſt with Murther, and diſguiſe</l>
+               <l>' With ſhew of Juſtice their leud Villanies.</l>
+               <l>' Juſtice ſometimes becomes that cooling ſhade</l>
+               <l>' Wherein Serpentine wickedneſs is laid.</l>
+            </lg>
+            <lg>
+               <l>The Elders are (to all the peoples wonder</l>
+               <l>At <hi>Daniel</hi>'s ſtrange proceeding) ſet aſunder;</l>
+               <l>And <hi>Joakim</hi>'s houſe did more with men abound</l>
+               <l>Then <hi>Dagon</hi>'s, when from <hi>Gaza Sampſon</hi> bound</l>
+               <l>Was brought, to make th'uncircumciſed ſport;</l>
+               <l>So great's the throng, ſo num'rous the reſort.</l>
+            </lg>
+            <lg>
+               <l>A ſudden change and great, methinks, to ſee</l>
+               <l>Two Judges late, now Priſoners to be.</l>
+               <l>Such is the nature of polluting ſin,</l>
+               <l>T'enſlave thoſe ſouls where once it enters in.</l>
+               <l>VVhen Righteouſneſs a Kingdom gives, no leſs</l>
+               <l>Is Bondage purchaſed by Wickedneſs.</l>
+               <l>Such was that grand Rebellion, thoſe evils</l>
+               <l>That poiſon'd glorious Angels into Devils,</l>
+               <l>Till ſpirit'al puſtules to appear began,</l>
+               <l>And Leproſie thoſe Spirits over-ran,</l>
+               <pb n="35" facs="tcp:97358:21"/>
+               <l>That to the world's amazement their bright frame</l>
+               <l>Is grown as loathſome as their curſed name.</l>
+            </lg>
+            <lg>
+               <l>One Elder forth is call'd; obſerve his pace,</l>
+               <l>And read Guilt's crimſon lines upon his face,</l>
+               <l>Drawn in a duskie Argent; he, whoſe pride</l>
+               <l>With murther joyn'd, even now his God defi'd,</l>
+               <l>Arraigned ſtands 'fore man, his junior too:</l>
+               <l>'Tis VViſdom's priviledge, and this Truth can do.</l>
+            </lg>
+            <lg>
+               <l>VVherefore our Princely youth unto him ſaid,</l>
+               <l>' O thou in ſin grown old! wert not afraid</l>
+               <l>' Falſe Judgement gainſt this woman to declare,</l>
+               <l>' VVhoſe ſpotleſs dealings ſo reſplendent are,</l>
+               <l>' Adorn'd with Vertue, that renowned Gem</l>
+               <l>' Of Honour, and immortal Diadem?</l>
+               <l>' VVas not, think'ſt thou, juſt Heaven's dreadful hand</l>
+               <l>' VVith vengeance arm'd, enough to countermand</l>
+               <l>' Such high preſumption? O moſt fooliſh ſpight,</l>
+               <l>' That dares againſt the very Thunder fight!</l>
+               <l>' But 'tis decreed, thy ſins hith'rto lyen hid</l>
+               <l>' Now in their time ſhould be diſcovered.</l>
+               <l>' Thus have you dealt with the poor innocent,</l>
+               <l>' And Malefactors freed from puniſhment;</l>
+               <l>' Regarding not that Greatneſs which doth ſay,</l>
+               <l>' The guiltleſs ſoul thou by no means ſhalt ſlay.</l>
+               <l>' Now therefore, ſince this woman thou didſt ſee,</l>
+               <l>' And took'ſt i'th'act, tell me, under what tree?</l>
+            </lg>
+            <pb n="36" facs="tcp:97358:22"/>
+            <lg>
+               <l>The Elder at this Queſtion could not chuſe</l>
+               <l>Demurring, till th'enrag'd concourſe of <hi>Jews</hi>
+               </l>
+               <l>Moſt part <hi>Suſanna</hi> favouring, now bethought</l>
+               <l>Themſelves ſhe might be to this Tryal brought</l>
+               <l>Unjuſtly, and with a tumultuous cry,</l>
+               <l>Say, Anſwer Elder, or expect to die.</l>
+            </lg>
+            <lg>
+               <l>After ſome pauſe, aſtoniſh'd, he declar'd,</l>
+               <l>Under a Maſtick they their pleaſure ſhar'd.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Daniel</hi> ſmiling, ' Very well, reply'd;</l>
+               <l>' Againſt thy ſelf, vile man, thus haſt thou ly'd:</l>
+               <l>' Behold, I ſee an Angel now receiving</l>
+               <l>' Command to take thee from among the living.</l>
+               <l>' But ſtand aſide,—And bring his fellow hither,</l>
+               <l>' That as two Brethren both may go together;</l>
+               <l>' VVhen't ſhall appear falſe witneſſes own breath</l>
+               <l>' Themſelves, not I, ſhall ſentence unto death.</l>
+            </lg>
+            <lg>
+               <l>The other's brought, for whoſe true counterfeit</l>
+               <l>Unto the former we need not retreat,</l>
+               <l>Being much confounded and amaz'd to hear</l>
+               <l>The Court with Acclamations rend the air.</l>
+               <l>At laſt a ſilence made: ' O curſed breed</l>
+               <l>' Of <hi>Cham,</hi> ſays <hi>Daniel,</hi> not of <hi>Judah</hi>'s ſeed!</l>
+               <l>' Could Beauty thus bewitch you? why then ſee</l>
+               <l>' Its full perfection, bleſt Eternity;</l>
+               <l>' Thou ſhouldſt have looked thither, where thy fill</l>
+               <l>' No leſs were then to underſtand and will.</l>
+               <pb n="37" facs="tcp:97358:22"/>
+               <l>' So hadſt thou been too high for Satans lure,</l>
+               <l>' And all falſe joys beneath thee lain obſcure.</l>
+               <l>' But Luſt's ſtill armed with moſt pois'nous ſtings;</l>
+               <l>' And where it woundeth, ſwift deſtruction brings.</l>
+               <l>' This hath thine heart corrupted, and one ſtroke</l>
+               <l>' The ſlender clue of thy ſhort Deſt'ny broke.</l>
+               <l>' Thus <hi>Iſrael</hi>'s daughter have you ſerv'd, whilſt ſhe</l>
+               <l>' Stood fearful of big-look'd Authority,</l>
+               <l>' And gazing on your place, durſt not deny</l>
+               <l>' The freedom of Adulterous company.</l>
+               <l>' But <hi>Judah</hi>'s daughter, ſhe, would not tranſgreſs;</l>
+               <l>' Her chaſter ſoul abhorr'd your wickedneſs;</l>
+               <l>' Nor threats nor death prevail'd which you conſpir'd,</l>
+               <l>' For ſhe refus'd to grant what Luſt deſir'd.</l>
+               <l>' O glorious woman! may this ever be</l>
+               <l>' A Jewel to adorn thy memory!</l>
+               <l>' But ſince thou ſaw'ſt her, to her charge haſt lay'd,</l>
+               <l>' That in the Garden ſhe th'Adultreſs play'd,</l>
+               <l>' Under what tree? I pray declare it here,</l>
+               <l>' And thou thereby thine innocence ſhalt clear.</l>
+            </lg>
+            <lg>
+               <l>Now comes the proof: many a doubtful thought</l>
+               <l>This perjur'd Elder to confuſion brought,</l>
+               <l>Leſt from the others anſwer he might vary,</l>
+               <l>Or for the right, light on the quite contrary:</l>
+               <l>Since the Almighty hath one Truth diſpos'd</l>
+               <l>To be unto lyes numberleſs oppos'd.</l>
+               <l>Yet forc'd to ſpeak after ſome ſhort delay,</l>
+               <l>This deſperate anxious ſpeech t'himſelf did ſay:</l>
+               <pb n="38" facs="tcp:97358:23"/>
+               <l>' I am now ſtraightned; hereon doth depend</l>
+               <l>' The utmoſt tryal of my fatal end:</l>
+               <l>' Come life or death, or hell or heaven, whether,</l>
+               <l>' Under an Holm tree they were naught together.</l>
+            </lg>
+            <lg>
+               <l>Then pious <hi>Daniel</hi> mildly to him ſaid,</l>
+               <l>' Ev'n now thou haſt thy curſed life betraid;</l>
+               <l>' God's holy Angel has Commiſſion ta'n</l>
+               <l>' Forthwith to cut thy wretched life in twain,</l>
+               <l>' And with a ſword attends, this very hour,</l>
+               <l>' Fierce vengeance on thy ſinful head to pour.</l>
+            </lg>
+            <lg>
+               <l>Convicted plainly thus the Elders ſtand,</l>
+               <l>And <hi>Suſan</hi>'s freed by holy <hi>Daniel</hi>'s hand.</l>
+               <l>VVhereat th'impatient <hi>Jewiſh</hi> concourſe riſe;</l>
+               <l>The Palace trembles at their thundering cries,</l>
+               <l>To God with praiſes firſt that ſtill doth ſave</l>
+               <l>Diſtreſſed ſinners who his mercy crave;</l>
+               <l>Nor any forlorn creature will forſake,</l>
+               <l>That heav'n doth onely his ſure anchor make.</l>
+            </lg>
+            <lg>
+               <l>This godly heat howe'r ſoon had an end;</l>
+               <l>They all their fury 'gainſt the Elders bend,</l>
+               <l>With ſuch a rage as Nature doth poſſeſs</l>
+               <l>(So violent 'twas) the whelp-rob'd Lioneſs;</l>
+               <l>That had not mighty Juſtice them reſerv'd</l>
+               <l>Unto the ſhameful death by both deſerv'd,</l>
+               <l>Their bloud had doubtleſs waſh'd the Judgement-floor,</l>
+               <l>And dy'd its Marble in a Purple-gore.</l>
+               <pb n="39" facs="tcp:97358:23"/>
+               <l>But they who Innocence would have betray'd,</l>
+               <l>To publike Execution are convey'd:</l>
+               <l>Nor is there Law more juſt, then when man ſhall</l>
+               <l>Periſh by that he laid for others fall.</l>
+            </lg>
+            <lg>
+               <l>Thus did one day, e'r-bleſſed may it be,</l>
+               <l>The guilty puniſh, and the guiltleſs free.</l>
+               <l>Unpiti'd di'd theſe Elders, whoſe black ſoul</l>
+               <l>In hell about the fiery wheel may roul,</l>
+               <l>Whilſt <hi>Suſan,</hi> late i'th' period of her age,</l>
+               <l>Betakes her to a better Pilgrimage;</l>
+               <l>To ſee thoſe Vertues in their native rays,</l>
+               <l>Which gave their follower here ſuch laſting praiſe.</l>
+            </lg>
+            <lg>
+               <l>Behold her Parents, Kindred, Husband too,</l>
+               <l>(The miſts exhaled of all former wo)</l>
+               <l>Obſerve them now, imagine with what chear</l>
+               <l>They do congratulate their <hi>Suſan</hi> dear,</l>
+               <l>From death to life reſtor'd, brought from the grave,</l>
+               <l>And, one foot in, ſnatch'd from the <hi>Stygian</hi> wave.</l>
+               <l>Then to compleat their joy, with one accord,</l>
+               <l>For her deliverance they praiſe the Lord.</l>
+            </lg>
+            <lg>
+               <l>' O thou moſt worthy to be fear'd great God,</l>
+               <l>' Who rul'ſt the Nations with an Iron rod,</l>
+               <l>' But gently doſt thine own choice <hi>Iſrael</hi> bring,</l>
+               <l>' To be refreſhed at thy mercy's ſpring;</l>
+               <l>' Our Fathers truſt in thee was not miſtaken,</l>
+               <l>' Nor were they in their greateſt wants forſaken:</l>
+               <pb n="40" facs="tcp:97358:24" rendition="simple:additions"/>
+               <l>' Thou heard'ſt the groans of this thy ſervant, when</l>
+               <l>' She ſtood betray'd, condemn'd by wicked men,</l>
+               <l>' Who falſſy charg'd her, though no ſtain was found</l>
+               <l>' Whereby thy faithful Handmaid to confound.</l>
+               <l>' Bleſs'd, and for e'r admired be thy Name;</l>
+               <l>' May worlds to come ſing forth thy mighty fame,</l>
+               <l>' That to death's portal turneſt man, and then</l>
+               <l>' Proclaim'ſt, Return again ye ſons of men.</l>
+            </lg>
+            <lg>
+               <l>By this time <hi>Daniel</hi>'s glory proudly ran</l>
+               <l>Like panting <hi>Phoebus</hi> to th'Meridian</l>
+               <l>Of <hi>Babylon</hi>'s Court, where it ſtill riſing tow'rs</l>
+               <l>Neerer and neerer to th'eternal Bow'rs.</l>
+               <l>Divineſt Youth! well worthy of a Throne</l>
+               <l>More glorious then ere earthly wight ſate on,</l>
+               <l>And of a righteous Crown, whoſe guards ſhall be</l>
+               <l>Such myſtick Gems as <hi>Suſan</hi>'s Chaſtity.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97358:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
